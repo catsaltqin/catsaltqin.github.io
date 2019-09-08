@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 靖州覃氏</title>
+    <link>https://catsaltqin.github.io/posts/</link>
+    <description>Recent content in Posts on 靖州覃氏</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 01 May 2019 01:57:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://catsaltqin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>族谱整理</title>
+      <link>https://catsaltqin.github.io/posts/%E6%97%8F%E8%B0%B1%E6%95%B4%E7%90%8620190907/</link>
+      <pubDate>Wed, 01 May 2019 01:57:17 +0800</pubDate>
+      
+      <guid>https://catsaltqin.github.io/posts/%E6%97%8F%E8%B0%B1%E6%95%B4%E7%90%8620190907/</guid>
+      <description>无意间拿到族谱, 因为年代久远, 磨损程度较大, 多数内容不易辨认，转为电子文档后便于保存和维护；
+然而在转录的过程当中, 发现族谱记录到某个时间就无法往上追溯了, 于是做了一些考证;
+在考证的过程之中, 查阅了很多知识, 同时也知晓了更多的族人;
+族谱电子化过程中, 促使我更加深入的了解计算机编程!
+一切有为法, 如梦幻泡影,
+最后编辑时间: 2019-09-04.</description>
+    </item>
+    
+  </channel>
+</rss>
